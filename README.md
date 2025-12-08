@@ -1,7 +1,10 @@
 # **Kaggle ML Journey – From Scratch to Skilled 🚀**
 
-Welcome to my **daily Machine Learning journey**, where I build, train, and upload one Kaggle project every single day.
+
+Welcome to my   **daily Machine Learning journey**,  where I build, train, and upload one Kaggle project every single day.
 This repository documents my complete learning path — starting from beginner-friendly datasets like **Titanic**, **House Prices**, and gradually moving toward advanced ML & DL challenges.
+
+
 📌 My Kaggle Profile:
 👉 https://www.kaggle.com/abhi3267179
 ---
